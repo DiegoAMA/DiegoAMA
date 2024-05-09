@@ -1,4 +1,4 @@
-## 👋 ¡Hola! Bienvenido a Mi Portafolio
+## 👋 Bienvenido a Mi Portafolio
 <p align="center">
   <img src="https://github.com/DiegoPsico00/Imagenes-Git/blob/e247cf5dc66d9a7e679c976cc0ec60550d921f3c/Portadas_blog_1.png">
 </p>
